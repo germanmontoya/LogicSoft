@@ -1,0 +1,10 @@
+Software para ventas físicas y virtuales
+
+*Roles:
+
+William May: desarrollador
+Diana Arteaga: Product Owner
+Jorge Mendez: Analista
+Andrés Rendón: Scrum Master 
+Hernán Alexis Patarroyo: Gestión de la Base de Datos
+Germán Montoya: desarrollador
